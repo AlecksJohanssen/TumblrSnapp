@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\libs\scribe.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ea4909bb556de828493bb47ba878696c512b70e9">
+        <dex dex="C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\build\intermediates\pre-dexed\debug\scribe-4f58305ecc652873db34e44f1937af72fe06ccf2.jar" />
+    </item>
+    <item
+        jar="C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\libs\codepath-android-view-helpers-0.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="16aa5e01429bcf160ca6ce85c9a3bdcda9ff3382">
+        <dex dex="C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\build\intermediates\pre-dexed\debug\codepath-android-view-helpers-0.1.0-0466d6e90dba81379e170f55333eee301d1770c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\libs\universal-image-loader-1.8.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="eee81e43531ce82db1781c5a8b27781ca384eede">
+        <dex dex="C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.4-a26890fb8a6266fb66dd9432649f79fc6e02c7f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\AlecksJohanssen\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-a06290c0b45cd5ee8dc417b5aa31e89337ac2525.jar" />
+    </item>
+    <item
+        jar="C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\libs\androidjhlabs.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f79a376d78a96ffd7339ff14836d892eb09385cd">
+        <dex dex="C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\build\intermediates\pre-dexed\debug\androidjhlabs-3a0feb1a244c7025b65d07661f9e0dfe6ca47308.jar" />
+    </item>
+    <item
+        jar="C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\libs\android-async-http-1.4.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f70e680861fdf9449819003e7799a4e9aca047f8">
+        <dex dex="C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.3-7fd22988ddff6dd7ee4e7f26116a94cf6c72c1ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\libs\codepath-utils.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4">
+        <dex dex="C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\build\intermediates\pre-dexed\debug\codepath-utils-a3058d81368bfd19e999f46120f14db7de0376d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\libs\codepath-oauth-0.2.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="afea34f63c600e058a21d6d1a88376cf99b1deab">
+        <dex dex="C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\build\intermediates\pre-dexed\debug\codepath-oauth-0.2.3-c084c9d86fd47561612b75d43c2255dd5260a2c9.jar" />
+    </item>
+
+</items>

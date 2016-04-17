@@ -1,0 +1,9 @@
+C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\build\intermediates\classes\debug
+C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\build\intermediates\pre-dexed\debug\codepath-utils-a3058d81368bfd19e999f46120f14db7de0376d2.jar
+C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\build\intermediates\pre-dexed\debug\codepath-android-view-helpers-0.1.0-0466d6e90dba81379e170f55333eee301d1770c2.jar
+C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\build\intermediates\pre-dexed\debug\codepath-oauth-0.2.3-c084c9d86fd47561612b75d43c2255dd5260a2c9.jar
+C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.3-7fd22988ddff6dd7ee4e7f26116a94cf6c72c1ba.jar
+C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.4-a26890fb8a6266fb66dd9432649f79fc6e02c7f4.jar
+C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\build\intermediates\pre-dexed\debug\scribe-4f58305ecc652873db34e44f1937af72fe06ccf2.jar
+C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\build\intermediates\pre-dexed\debug\androidjhlabs-3a0feb1a244c7025b65d07661f9e0dfe6ca47308.jar
+C:\Users\AlecksJohanssen\Desktop\tumblrsnap-master\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-a06290c0b45cd5ee8dc417b5aa31e89337ac2525.jar
